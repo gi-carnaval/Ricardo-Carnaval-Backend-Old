@@ -18,6 +18,7 @@
     "object-assign": "^4.1.1",
     "pg-connection-string": "^2.5.0",
     "react-is": "^18.1.0",
+    "strapi-plugin-local-image-sharp": "^1.1.0",
     "whatwg-fetch": "^3.6.2"
   },
   "author": {

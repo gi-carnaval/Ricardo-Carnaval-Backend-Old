@@ -43,11 +43,17 @@
       "inversedBy": "events"
     },
     "featureImage": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "tittle",
+      "required": true
     }
   }
 }
