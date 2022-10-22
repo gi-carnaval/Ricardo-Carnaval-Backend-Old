@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_slider_slider_banners",
+  "info": {
+    "displayName": "SliderBanner",
+    "icon": "image"
+  },
+  "options": {},
+  "attributes": {
+    "Images": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}
