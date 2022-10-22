@@ -54,6 +54,10 @@
       "type": "uid",
       "targetField": "tittle",
       "required": true
+    },
+    "Nomes": {
+      "type": "string",
+      "required": true
     }
   }
 }
