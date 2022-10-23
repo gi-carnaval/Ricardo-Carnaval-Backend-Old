@@ -16,7 +16,6 @@
     "@strapi/strapi": "^4.4.5",
     "better-sqlite3": "7.4.6",
     "object-assign": "^4.1.1",
-    "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0",
     "react-is": "^18.1.0",
     "strapi-plugin-local-image-sharp": "^1.1.0",
